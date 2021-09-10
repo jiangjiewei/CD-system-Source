@@ -34,7 +34,7 @@ Other packages are as follows:
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--label1  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--*.jpg  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--label2  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--*.jpg  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<pre>|--*.jpg</pre>  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--label3      
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|--*.jpg  
 &ensp;&ensp;&ensp;&ensp;|-val   
