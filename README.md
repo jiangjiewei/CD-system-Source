@@ -40,7 +40,7 @@ Other packages are as follows:
 &ensp;&ensp;&ensp;&ensp;|-val   
 &ensp;&ensp;&ensp;&ensp; ...  
 &ensp;&ensp;&ensp;&ensp;|-test   
-&ensp;&ensp;&ensp;&ensp;</pre>
+&ensp;&ensp;&ensp;&ensp;</pre>  
 ...  
  
 ## training and testing ##
