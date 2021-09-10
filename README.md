@@ -43,7 +43,7 @@ Other packages are as follows:
 &ensp;&ensp;&ensp;&ensp; ...</pre>  
 
  
-## training and testing ##
+## Training and Testing ##
 The training and testing are executed as follows:
 
 * The file "CDtrainingv1.py" in /CD-system-Source is used for our models training.
