@@ -27,7 +27,7 @@ Other packages are as follows:
 
 * pip install -r requirements.txt
 # Usage
-## Data set form ##
+## Dataset form
 
 |-data  
 &ensp;&ensp;&ensp;&ensp;|-train  
